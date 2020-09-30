@@ -10,7 +10,7 @@ To get started developing right away:
     - `cd api`
     - `npm install`
     - `node server`
-* In another terminal window, install and start the pre-scaffolded Create React App project
+* In another terminal window, install and start the React App project
     - `cd webcam`
     - `npm install`
     - `npm start`
