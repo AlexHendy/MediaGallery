@@ -140,6 +140,7 @@ class CaptureVideo extends Component {
                         <video ref="videoOverlay" className="videoElement"/>
                         <div style={{height: '100%'}}>
                             <img 
+                                alt='image'
                                 src={this.state.overlay}
                                 style={{
                                     height: '100%', 
